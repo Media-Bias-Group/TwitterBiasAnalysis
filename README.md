@@ -1,4 +1,8 @@
-# IPM Draft
+# What do Twitter Comments Tell About News Article Bias? Assessing the Impact of News Article Bias on its Perception on Twitter
+This repository accompanies the article "What do Twitter Comments Tell About News Article Bias? Assessing the Impact of News Article Bias on its Perception on Twitter". More information will be added in case of acceptance of the paper. 
+
+In the following, we briefly describe the available scripts. All models can be found here: https://zenodo.org/record/7141335
+
 ### R Script:
 1. adfontes:
 This script collects all ad fontes media data
